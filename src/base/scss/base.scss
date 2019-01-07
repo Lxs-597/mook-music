@@ -1,0 +1,12 @@
+@import './variable.scss';
+
+html, body {
+  font-weight: 200;
+  font-family: 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light', Arial, Helvetica, sans-serif;
+  user-select: none;
+  color: $color-text-l;
+  overflow: hidden; 
+}
+.application .theme--dark.list, .theme--dark .list {
+  background-color: $color-bg !important;
+}

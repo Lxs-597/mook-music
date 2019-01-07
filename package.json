@@ -7,8 +7,17 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "better-scroll": "^1.13.4",
+    "js-base64": "^2.5.0",
+    "jsonp": "^0.2.1",
+    "lyric-parser": "^1.0.1",
+    "store": "^2.0.12",
+    "velocity-animate": "^1.5.2",
     "vue": "^2.5.21",
+    "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.1",
+    "vuetify": "^1.4.0",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
